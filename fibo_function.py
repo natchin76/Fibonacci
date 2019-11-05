@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Nov  5 22:27:40 2019
 Fibonacci sequence function file
