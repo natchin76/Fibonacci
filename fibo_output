@@ -1,0 +1,9 @@
+"""
+Created on Tue Nov  5 22:36:24 2019
+First 100 fibonacci numbers using function fibo from function file
+It also measures the time required to execute the code
+@author: CHINTAN
+"""
+import fibo_function as m,timeit
+print(m.fibo(100))
+print(timeit.timeit())
