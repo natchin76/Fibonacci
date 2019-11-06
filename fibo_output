@@ -6,4 +6,4 @@ It also measures the time required to execute the code
 """
 import fibo_function as m,timeit
 print(m.fibo(100))
-print(timeit.timeit())
+print('Time taken to execute the code' timeit.timeit())
